@@ -3,11 +3,14 @@ Result data for study: Wind tunnel and numerical study of wind pressure coeffici
 
 Liu, Wei
 School of Environmental Science and Engineering, Tianjin University, China.
+
 Mattsson, Magnus
 Department of Building Engineering, Energy Systems and Sustainability Science, University of Gävle, Sweden.
 ORCID iD: 0000-0002-0337-8004
+
 Widström, Torun
 Department of Civil and Architectural Engineering, KTH, Stockholm.
+
 Claesson, Leif
 Department of Building Engineering, Energy Systems and Sustainability Science, University of Gävle, Sweden.
 
